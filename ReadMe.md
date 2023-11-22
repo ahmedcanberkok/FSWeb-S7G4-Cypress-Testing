@@ -39,8 +39,7 @@ Bu görevi tamamlamak için aşağıdaki testleri yazmanız ve çalıştırmanı
 - [ ] `isim` inputunu alın ve bir isim yazın.
 - [ ] Girilen metnin sağladığınız adı içerip içermediğini kontrol etmek için bir assertion kullanın. (İpucu: .should assertion)
 - [ ] `email` inputunu alın ve bir email adresi girin
-- [ ] `şifre` inputunu alın ve bir şifre girin
-- [ ] Kullanıcının kullanım koşulları kutusunu işaretlediğini kontrol edecek bir test oluşturun
+a- [ ] Kullanıcının kullanım koşulları kutusunu işaretlediğini kontrol edecek bir test oluşturun
 - [ ] Kullanıcının form verilerini gönderip gönderemeyeceğini test edin 
 - [ ] Bir input boş bırakılırsa form doğrulamasını test edin
 
